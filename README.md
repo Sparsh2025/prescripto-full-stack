@@ -7,8 +7,8 @@ Built using **MongoDB, Express.js, React.js, and Node.js**, and deployed on **Re
 
 ## 🚀 Live Demo
 
-- 🧑‍⚕️ **User Dashboard:** [[https://your-user-url.onrender.com](https://prescripto-vpxf.onrender.com/)] 
-- 🧑‍💼 **Admin Dashboard:** [[https://your-admin-url.onrender.com](https://prescripto-admin-fp1m.onrender.com)]
+- 🧑‍⚕️ **User Dashboard:** [[https://prescripto-vpxf.onrender.com](https://prescripto-vpxf.onrender.com/)] 
+- 🧑‍💼 **Admin Dashboard:** [[https://prescripto-admin-fp1m.onrender.com](https://prescripto-admin-fp1m.onrender.com)]
 
 ---
 
